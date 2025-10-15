@@ -1,5 +1,5 @@
 # Files containing functions for LaxKAT, PST, and SKAT
-laxkat_variations.R
+laxkat_variations.R<br>
 pst.R
 skat.R
 
